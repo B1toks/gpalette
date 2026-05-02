@@ -2,7 +2,7 @@
 
 A small React color palette explorer — browse curated palettes (Material UI + 8 Flat UI variants), click a swatch to copy the hex code with a sound, an animated overlay, and a randomly-picked encouragement.
 
-🎨 **Live demo:** _coming soon (Vercel deploy in progress)_
+🎨 **Live demo:** **[gpalette.vercel.app](https://gpalette.vercel.app)**
 
 > My very first React project — built during my eKreative front-end internship as the final exercise of the CRA series. Originally lived inside the [Practice_Ek](https://github.com/B1toks/Practice_Ek) monorepo and was extracted into this standalone repo for clarity.
 
